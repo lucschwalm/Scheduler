@@ -8,3 +8,5 @@ To add an event to a time, type information about the event in the corresponding
 ![image](https://github.com/lucschwalm/scheduler/assets/130501111/244765a5-4574-490b-899a-cb8bb27823d8)
 
 # Links
+Site link: https://lucschwalm.github.io/scheduler/
+Github: https://github.com/lucschwalm/scheduler/edit/main/
